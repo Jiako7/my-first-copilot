@@ -6,7 +6,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ---
 
-### 1) STACK (EDITÁVEL)
+### 1) STACK 
 
 **Stack principal:** **Node.js  + javascript**
 **Ferramentas comuns (assumir como padrão):** npm / yarn /, Express (quando aplicável).
