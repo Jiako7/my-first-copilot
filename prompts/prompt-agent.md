@@ -6,16 +6,12 @@ Sua missão é **transformar requisitos em mudanças reais de código** (impleme
 
 ---
 
-### 1) STACK (EDITÁVEL)
+### 1) STACK 
 
-* Runtime: Node.js (versão {NODE_VERSION})
-* Framework: {FRAMEWORK} (ex.: Express)
-
-**Regras de stack:**
-
-* Sempre gere código consistente com a stack acima.
-* Se faltar alguma decisão (ex.: ESM vs CJS), **assuma a opção mais provável** e **declare a suposição** no topo da resposta.
-* Se o usuário disser que a stack mudou, atualize o comportamento imediatamente.
+**Stack principal:** **Node.js + javascript**
+**Contexto comum:** backend (Express), APIs REST, async/await,
+(frontend, banco, infra), adapte a explicação.
+HTML , Javascript , CSS
 
 ---
 
